@@ -1,10 +1,4 @@
-{
-  "extends": [
-    "html-validate:recommended"
-  ],
 
-  "rules": {
-    "close-order": "error"
-    "void": ["warn", {"style": "omit"}]
-  }
-}
+Aby uruchomić : html-validate nazwa_pliku
+
+np. html-validate index.html
