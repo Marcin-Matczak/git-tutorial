@@ -1,0 +1,11 @@
+body {
+  max-width: 350px;
+}
+
+div p:first-child {
+  font-weight: bold;
+}
+
+div p:nth-child(3) {
+font-style: italic;
+}
